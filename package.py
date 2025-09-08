@@ -1,6 +1,6 @@
 name = "nuke"
 
-version = "14.0.4"
+version = "16.0.1"
 
 authors = [
     "Foundry"
@@ -24,8 +24,8 @@ uuid = "foundry.nuke"
 build_command = ""
 
 def commands():
-    alias("nuke", "C:\\PROGRA~1\\Nuke14.0v4\\Nuke14.0.exe")
-    alias("nukex", "C:\\PROGRA~1\\Nuke14.0v4\\Nuke14.0.exe --nukex")
-    alias("nukestudio", "C:\\PROGRA~1\\Nuke14.0v4\\Nuke14.0.exe  --studio")
-    alias("hiero", "C:\\PROGRA~1\\Nuke14.0v4\\Nuke14.0.exe  --hiero")
-    alias("hieroplayer", "C:\\PROGRA~1\\Nuke14.0v4\\Nuke14.0.exe  --player")
+    alias("nuke", "C:\\PROGRA~1\\Nuke16.0v1\\Nuke16.0.exe")
+    alias("nukex", "C:\\PROGRA~1\\Nuke16.0v1\\Nuke16.0.exe --nukex")
+    alias("nukestudio", "C:\\PROGRA~1\\Nuke16.0v1\\Nuke16.0.exe  --studio")
+    alias("hiero", "C:\\PROGRA~1\\Nuke16.0v1\\Nuke16.0.exe  --hiero")
+    alias("hieroplayer", "C:\\PROGRA~1\\Nuke16.0v1\\Nuke16.0.exe  --player")
